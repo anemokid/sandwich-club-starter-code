@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:fadeScrollbars="true"
-    a
     tools:context="com.udacity.sandwichclub.DetailActivity">
 
     <!-- scrollview so all details are visible on smaller screens-->
